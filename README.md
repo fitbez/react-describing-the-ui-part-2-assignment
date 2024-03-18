@@ -20,7 +20,7 @@ Your mission is to develop a blog application that not only utilizes React's cor
 
 ### **Feature 1: Blog Post List**
 
-- Design a homepage that lists all blog posts. Style each post preview with **`styled-components`** to include the post title and summary. Aim for a layout that enhances readability and user engagement.
+- Design a homepage that lists all blog posts. Style each post preview with **`styled-components`** to include the post image, post title and summary. Aim for a layout that enhances readability and user engagement.
 
 ### **Feature 2: Blog Post Details**
 
@@ -30,9 +30,10 @@ Your mission is to develop a blog application that not only utilizes React's cor
 
 - Create a greeting component that displays messages like "Good morning," "Good afternoon," or "Good evening," based on the current time. Style this component with **`styled-components`** to make the greeting visually appealing and dynamically responsive to the time of day.
 
-### **Feature 4: Navigation and Routing**
+### **Feature 4: Navigation and Routing (Using `react-router-dom`)**
 
-- Implement routing in your application using **`react-router-dom`**. Style your navigation components with **`styled-components`** to provide a seamless and intuitive user experience.
+- Use **`react-router-dom`** to add routing to your application. Implement routes for the home page, individual blog posts, and an "About" page.
+- Ensure the blog post details page uses dynamic routing to display content based on the post clicked.
 
 ## **Setup and Requirements**
 
